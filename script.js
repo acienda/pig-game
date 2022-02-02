@@ -92,6 +92,7 @@ btnHold.addEventListener('click', function () {
       switchPlayer();
     }
     console.log('welcome');
+    alert('Hcked');
   }
 });
 
