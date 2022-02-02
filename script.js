@@ -91,9 +91,10 @@ btnHold.addEventListener('click', function () {
       // Switch to the next player
       switchPlayer();
     }
-    console.log('welcome');
-    alert('Hcked');
   }
 });
+const newFeature = function () {
+  console.log('welcome to app');
+};
 
 btnNew.addEventListener('click', init);
