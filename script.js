@@ -93,8 +93,5 @@ btnHold.addEventListener('click', function () {
     }
   }
 });
-const newFeature = function () {
-  console.log('welcome to app');
-};
 
 btnNew.addEventListener('click', init);
